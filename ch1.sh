@@ -8,7 +8,7 @@
 # Confirm the installation by running: wsl -l -v
 
 # How to run WSL:
-# Open your CLI, type: wsl -d distro -u uname => Example: wsl -d ubuntu -u juniariprs
+# Open your CLI, type: wsl -d distro -u uname => Example: wsl -d Ubuntu-24.04 -u juniariprs
 
 # REPL (Read, Evaluate, Print, Loop)
 expr 123456 + 7890
