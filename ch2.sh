@@ -1,6 +1,8 @@
 #!/bin/bash
 
-# 1) Filesystem
+# Chapter 2: Filesystems
+
+# 1) Filesystems
 # Filesystem: Files and directories which are organized into a tree-like structure
 # Directories (or "folders" on Windows) are containers that hold files and other directories
 # Files are a dump of raw binary data: 1's and 0's
