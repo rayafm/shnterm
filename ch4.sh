@@ -34,7 +34,7 @@ bin/genids.sh
 # Ubuntu on WSL => run a Bash shell
 # macOS => run a Zsh shell
 
-# The difference between 3 shelss you're likely to encounter:
+# The difference between 3 shells you're likely to encounter:
 # sh: The Bourne shell. This is the original Unix shell and is POSIX-compliant.
 # It's very basic and doesn't have many quality-of-life features.
 
