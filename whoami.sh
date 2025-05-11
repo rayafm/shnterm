@@ -1,6 +1,10 @@
 #!/bin/bash
-
 name="Juniar Indah Purnama Raya Situmorang"
 food="toast"
-drink="cappucino coffee"
-echo -e "Hi!" "\nMy name is" $name"." "\nMy favorite food is" $food"." "\nMy favorite drink is" $drink"."
+drink="cappuccino coffee"
+hobbies="reading, listening to music, singing"
+echo -e "Hi!"
+echo -e "My name is" $name
+echo -e "My favorite food is" $food
+echo -e "My favorite drink is" $drink
+echo -e "My hobbies are" ${hobbies[@]}
