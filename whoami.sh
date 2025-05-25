@@ -8,3 +8,4 @@ echo -e "My name is" $name
 echo -e "My favorite food is" $food
 echo -e "My favorite drink is" $drink
 echo -e "My hobbies are" ${hobbies[@]}
+echo "Nice to meet you!"
