@@ -195,7 +195,7 @@ ps aux
 # ls, grep, and less are programs which do one thing, do it well, don't try to do too much.
 # ls lists files and directories
 # grep searches for texts
-# les displays text
+# less displays the text
 
 # 2. Write Programs to Work Together
 # According to the Unix Philosophy, at least programs should do one thing and do it well, 
